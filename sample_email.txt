@@ -1,0 +1,15 @@
+gita.sharma@example.com,valid
+ram. thapa123@sub.mail.co.uk,invalid
+test.email+alex@gmail.com,valid
+username@domain,invalid
+@no-local-part.com,invalid
+plainaddress,invalid
+missingatsign.com,invalid
+email@.com,invalid
+email@domain..com,invalid
+"quoted"@example.com,invalid
+space in@email.com,invalid
+user@domain.c,valid
+user@domain.co,valid
+user@domain.co.in,valid
+user.name@domain.com,valid
